@@ -1,2 +1,4 @@
 # FirstProgram
-第一个项目
+public static void main(String[] args) {
+  system.out.println("11");
+}
